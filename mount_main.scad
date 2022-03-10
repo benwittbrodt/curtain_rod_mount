@@ -1,5 +1,5 @@
 to_mm = 25.4;
-$fn=100;
+$fn=1000;
 thickness = 1 * to_mm;
 rod_diameter = 0.75 * to_mm;
 depth = 5 * to_mm;
